@@ -1,9 +1,23 @@
 header {
     background-color: #2C3E50;
+    color: white;
 }
 
 .hero {
-    min-height: 100%;
     background-color: #1ABC9C;
+    color: white;
+}
+
+.square {
+    min-height: 20rem;
+}
+
+.about {
+    background-color: #1ABC9c;
+    color: white
+}
+
+footer {
+    background-color: #3A546D;
     color: white;
 }
