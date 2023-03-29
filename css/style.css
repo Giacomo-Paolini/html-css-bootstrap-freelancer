@@ -61,6 +61,10 @@ header {
     color: #1ABC9C;
 }
 
+.my_footer_link:hover {
+    color: white;
+}
+
 #footer_2 {
     background-color: #2C3E50;
     color: white;
