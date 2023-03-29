@@ -2,9 +2,17 @@ header {
     background-color: #2C3E50;
 }
 
-.hero {
+.my_jumbo {
     background-color: #1ABC9C;
     color: white;
+}
+
+.my_star {
+    font-size: 1.5rem;
+}
+
+.my_jobs {
+    font-size: 1.5rem;
 }
 
 .square {
