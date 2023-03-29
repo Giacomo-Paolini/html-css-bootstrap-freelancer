@@ -32,6 +32,19 @@ header {
     color: white
 }
 
+/* CONTACT ME */
+
+.my_btn_contact {
+    background-color: #1ABC9C;
+    border-radius: 5px;
+    color: white;
+}
+
+.my_btn_contact:hover {
+    border: 1px solid black;
+}
+
+
 footer {
     background-color: #3A546D;
     color: white;
