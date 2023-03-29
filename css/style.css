@@ -2,6 +2,8 @@ header {
     background-color: #2C3E50;
 }
 
+/* JUMBO */
+
 .my_jumbo {
     background-color: #1ABC9C;
     color: white;
@@ -13,6 +15,12 @@ header {
 
 .my_jobs {
     font-size: 1.5rem;
+}
+
+/* PORTFOLIO */
+
+.my_hr_color {
+    border-color: #333333;
 }
 
 .square {
